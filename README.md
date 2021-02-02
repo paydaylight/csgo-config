@@ -23,7 +23,7 @@ Copy contents of ```./grenades``` to a CS:GO console upon starting a map
 
 Set from Steam menu
 
-```-tickrate 128 +fps_max 0 -novid -nojoy```
+```-tickrate 128 +fps_max 0 -novid -nojoy +exec autoexec.cfg```
 
 ## Crosshair
 
@@ -31,3 +31,19 @@ I switch betwen these two
  
  * green - ```CSGO-xL8PH-THLC7-9v38n-m7w3e-nh7iL```
  * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
+
+## Resolution
+
+Open ```<partition>\Steam\userdata\<userid>\730\local\cfg\video.txt```
+
+Set aspect ratio (I prefer 4:3):
+
+```"setting.aspectratiomode" "1" // 0 = 4:3, 1 = 16:9, 2 = 16:10```
+
+Then set fullscreen mode and width with height  
+
+<code>"setting.fullscreen" "1" // must be set to fullscreen <br>
+"setting.defaultres" "1280" // width <br>
+"setting.defaultresheight" "1024" // height </code>
+
+Open your GPU settings and set stretched resolution
