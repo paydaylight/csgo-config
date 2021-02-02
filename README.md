@@ -8,6 +8,7 @@ This is my config that I use in CS:GO
 * binds increase crosshair size for smoke lineups (note that ```5``` corresponds to my initial crosshair size) to ```C```
 * binds a jump throw to ```V```
 * binds jump to ```MHEELUP```, ```MWHEELDOWN``` and ```space```
+* sets resolution to 4:3 1280x1024, then you can make it stretched in GPU settings
 
 To make it work just copy ```autoexec.cfg``` to ```csgo/cfg``` folder
 
@@ -31,19 +32,3 @@ I switch betwen these two
  
  * green - ```CSGO-xL8PH-THLC7-9v38n-m7w3e-nh7iL```
  * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
-
-## Resolution
-
-Open ```<partition>\Steam\userdata\<userid>\730\local\cfg\video.txt```
-
-Set aspect ratio (I prefer 4:3):
-
-```"setting.aspectratiomode" "1" // 0 = 4:3, 1 = 16:9, 2 = 16:10```
-
-Then set fullscreen mode and width with height  
-
-<code>"setting.fullscreen" "1" // must be set to fullscreen <br>
-"setting.defaultres" "1280" // width <br>
-"setting.defaultresheight" "1024" // height </code>
-
-Open your GPU settings and set stretched resolution
