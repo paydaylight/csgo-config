@@ -1,6 +1,6 @@
 ## Introduction
 
-This is my [config](#autoexeccfg), [launch-options](#launch-options) and [grenade binds for training](#grenades-training) that I use in CS:GO
+This is my config that I use in CS:GO
 
 ## Autoexec.cfg
 
@@ -24,3 +24,10 @@ Copy contents of ```./grenades``` to a CS:GO console upon starting a map
 Set from Steam menu
 
 ```-tickrate 128 +fps_max 0 -novid -nojoy```
+
+## Crosshair
+
+I switch betwen these two
+ 
+ * green - ```CSGO-xL8PH-THLC7-9v38n-m7w3e-nh7iL```
+ * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
