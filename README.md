@@ -30,5 +30,5 @@ Set from Steam menu
 
 I switch betwen these two
  
- * green - ```CSGO-xL8PH-THLC7-9v38n-m7w3e-nh7iL```
  * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
+ * tiny tiny - ```CSGO-Etvdz-k2G2N-dJY4Y-zZsNy-WAbYO```
