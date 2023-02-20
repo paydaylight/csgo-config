@@ -31,4 +31,6 @@ Set from Steam menu
 I switch betwen these two
  
  * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
- * tiny tiny - ```CSGO-Etvdz-k2G2N-dJY4Y-zZsNy-WAbYO```
+ * ```CSGO-Etvdz-k2G2N-dJY4Y-zZsNy-WAbYO```
+ 
+   <img width="135" alt="Screen Shot 2023-02-20 at 12 07 47 PM" src="https://user-images.githubusercontent.com/28920197/220023933-86b98692-55db-4fe7-baba-abcc34cd911a.png">
