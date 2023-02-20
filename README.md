@@ -8,6 +8,7 @@ A config I use for CS:GO, made a repo for convenience.
 * binds increase crosshair size for smoke lineups (note that ```5``` corresponds to my initial crosshair size) to ```C```
 * binds a jump throw to ```V```
 * binds jump to ```MHEELUP```, ```MWHEELDOWN``` and ```space```
+* binds clear decals and inspect weapon to `F`
 * sets resolution to 4:3 1280x1024, then you can make it stretched in GPU settings
 
 To make it work just copy ```autoexec.cfg``` to ```csgo/cfg``` folder
