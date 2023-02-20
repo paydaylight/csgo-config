@@ -1,6 +1,6 @@
 ## Introduction
 
-This is my config that I use in CS:GO
+A config I use for CS:GO, made a repo for convenience.
 
 ## Autoexec.cfg
 
@@ -26,11 +26,9 @@ Set from Steam menu
 
 ```-tickrate 128 +fps_max 0 -novid -nojoy +exec autoexec.cfg```
 
-## Crosshair
-
-I switch betwen these two
+## Crosshairs
  
- * white - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
+ * old one I don't use - ```CSGO-ZYuhs-mFmZt-wd3Vx-CQk3K-snCND```
  * ```CSGO-Etvdz-k2G2N-dJY4Y-zZsNy-WAbYO```
  
    <img width="135" alt="Screen Shot 2023-02-20 at 12 07 47 PM" src="https://user-images.githubusercontent.com/28920197/220023933-86b98692-55db-4fe7-baba-abcc34cd911a.png">
